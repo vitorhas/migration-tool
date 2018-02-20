@@ -1,5 +1,5 @@
-import com.rabobank.migration.Application;
-import com.rabobank.migration.controller.MigrationController;
+import com.vitorhas.migration.Application;
+import com.vitorhas.migration.controller.MigrationController;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

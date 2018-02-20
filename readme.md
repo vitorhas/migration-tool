@@ -1,5 +1,5 @@
 *************************************
-** Content Rabobank Migration Tool **
+** Content Migration Tool **
 *************************************
 
 How to run?
